@@ -1,7 +1,7 @@
 # Team Octagram
 ## 🤔 About
 ## ⭐️ Member
-### 💻 Frontend
+### Frontend
 <table>
   <tbody>
     <tr>
@@ -19,7 +19,7 @@
   </tbody>
 </table>
 
-### ⚙️ Backend
+### Backend
 <table>
   <tbody>
     <tr>
